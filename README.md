@@ -1,2 +1,3 @@
-# mp3tomp4conv
-Easy Python mp4 to mp3 converter
+# Mp3 to Mp4 Converter writen in Python
+### Screenshot from app
+![](ss0.png)
